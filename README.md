@@ -17,7 +17,6 @@ React Native developer passionate about building smooth cross‑platform mobile 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NativeWind](https://img.shields.io/badge/NativeWind-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) </br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shatskisdimka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=shatskisdimka&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shatskisdimka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
