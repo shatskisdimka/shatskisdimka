@@ -22,5 +22,5 @@ React Native developer passionate about building smooth cross‑platform mobile 
 
 # 🚀 Current Project:
 [👉Click to view](https://github.com/shatskisdimka/react-native-recurrly)  
-**Subscription tracker built with React Native + Expo** – from JSX to API calls and architecture.  
+**Subscription tracker built with React Native + Expo**
 🏷️ `TypeScript` `Supabase` `TanStack Query` `React Native Reanimated` `NativeWind` `Clerk` `Expo Router`
